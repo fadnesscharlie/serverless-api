@@ -10,6 +10,10 @@ We use DynamoDB we use tables that store our data in them. They work off of our 
 
 Here we create our RESTful API's which include not limited too, GET, POST, PUT, and DELETE. We can create the pathway for our API's and even set parameters or deeper layers in our API all in AWS API Gateway.
 
+## UML
+
+![UML](img/lab-18-UML.png)
+
 ## Questions
 
 - What is the root URL to your API?
@@ -22,7 +26,7 @@ Here we create our RESTful API's which include not limited too, GET, POST, PUT, 
   - id and name
 
 
-## contributors
+## Contributors
 
 - Ayrat Gimranov
 - Mark Thanadabouth
